@@ -1,0 +1,9 @@
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index -612 out of bounds for length 121
+	at ataxx.Board.legalMove(Board.java:185)
+	at ataxx.Board.makeMove(Board.java:269)
+	at ataxx.AI.minMax(AI.java:128)
+	at ataxx.AI.findMove(AI.java:63)
+	at ataxx.AI.getMove(AI.java:49)
+	at ataxx.Game.play(Game.java:63)
+	at ataxx.Main.main(Main.java:86)
+Program 1 ended with: too much output

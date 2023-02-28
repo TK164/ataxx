@@ -1,0 +1,21 @@
+#* java -ea ataxx.Main
+
+manual blue
+# RED
+a7-b7
+# BLUE
+g7-f7
+# RED
+b7-c7
+# BLUE
+f7-e7
+# RED
+c7-d7
+dump
+# BLUE JUMP
+f7-d6
+dump
+# RED EXTEND
+b7-c6
+dump
+quit
